@@ -8,7 +8,7 @@ Dataset : [Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personal
 
 ## Contents
 
-    * [About Data](#About-Dataset)
+    - [About Data](#About-Dataset)
 
         - [Context](#Context)
 
@@ -19,7 +19,8 @@ Dataset : [Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personal
         - [License](#License)
 
         - [Acknowledgement](#Acknowledgement)
-
+	
+	- [Technologies](#Technologies)
         
 
 ## About Dataset
@@ -74,6 +75,8 @@ Customer personality analysis helps a business to modify its product based on it
 - NumCatalogPurchases: Number of purchases made using a catalogue
 - NumStorePurchases: Number of purchases made directly in stores
 - NumWebVisitsMonth: Number of visits to company’s website in the last month
+
+There was no information about Z_CostContact and Z_Revenue.
 
 ## Target
 
